@@ -1,17 +1,21 @@
 # angular-paper-cards
 Paper cards to lay out angular applications and their architecture.
 
+![Bring your architecture into touchable form](./angular-cards.png)
+
 ## How to use
 
 1. [download PDF](https://github.com/wingsuitist/angular-paper-cards/raw/master/angular-architecture-cards.pdf), print it and cut out the cards
-2. take a card, fill in the boxes as needed
-3. place on the wall or floor to form your application
-4. hold your chin, tilt your head to a thinking position, point to something, talk to someone, and change it
-5. go to 1.
+2. print it and cut out the cards
+3. take a card, fill in the boxes as you wish
+4. place on the wall or floor to form your application
+5. hold your chin with two fingers, tilt your head to a thinking position
+6. point to something (shake your head if apropriate), talk to someone, change the card
+7. go to point 3.
 
 It's not about perfection, it's about communication and understanding.
 
-![Bring your architecture into touchable form](./angular-cards.png)
+--
 
 Improvements and input is welcome. Any new card we should add?
 
